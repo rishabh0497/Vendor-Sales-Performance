@@ -149,6 +149,18 @@ in Power BI Desktop to explore the interactive dashboard.
 
 ---
 
+
+## 🖼️ Power BI Dashboard Preview
+
+Below is a snapshot of the final Power BI dashboard built using the `vendor_sales_summary.csv` dataset.
+
+It provides a consolidated view of vendor performance, profitability, inventory efficiency, and contribution patterns across the business.
+
+![Power BI Vendor Sales Performance Dashboard](powerbi/dashboard.png)
+
+---
+
+
 ## 📊 Key Dashboard Features
 
 The Power BI dashboard provides:
